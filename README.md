@@ -1,4 +1,5 @@
 
+
 # Hollow Diamond Star Pattern Program in Java
 
 ## Introduction
